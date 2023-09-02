@@ -8,5 +8,5 @@ aprendiendo a desarrollar proyectos
 
 * 🌍  I'm based in m
 * 🖥️  See my portfolio at [mi portafolio](http://miportafolio)
-* ✉️  You can contact me at [obandostiven18@gmail.com](mailto:obandostiven18@gmail.com)
+* ✉️  You can contact me at [obandostiven270@gmail.com](mailto:obandostiven18@gmail.com)
 * 🧠  I'm learning crear proyectos
